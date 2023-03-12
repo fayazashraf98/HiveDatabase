@@ -1,16 +1,9 @@
 # hive_database
 
-A new Flutter project.
+## Description 
 
-## Getting Started
+This Flutter app demonstrates how to perform basic CRUD operations on a Hive database. Users can add, edit, and delete items in a list using a simple user interface. Hive is a lightweight, fast, and efficient NoSQL database solution for Flutter, and this app provides a basic example of how to use it in your own projects.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ## Picture
+![Untitled](https://user-images.githubusercontent.com/97346744/224555509-c513c15c-0055-4dd9-b8de-616e89f30fca.png)
